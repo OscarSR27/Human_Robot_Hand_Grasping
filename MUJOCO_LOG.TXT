@@ -1,0 +1,3 @@
+Fri Jul 14 14:39:59 2023
+WARNING: mju_openResource: unknown file '/Scene/wonik_allegro/scene_right.xml'
+
