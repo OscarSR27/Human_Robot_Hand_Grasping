@@ -72,15 +72,15 @@
 
       <default class="rootx_c">
         <joint axis="1 0 0" range="-20.0 20.0"/>
-        <position ctrlrange="-0.5 0.5" kp="100"/>
+        <position ctrlrange="-5.0 5.0" kp="100"/>
       </default>
       <default class="rooty_c">
         <joint axis="0 1 0" range="-20.0 20."/>
-        <position ctrlrange="-0.5 0.5" kp="100"/>
+        <position ctrlrange="-5.0 5.0" kp="100"/>
       </default>
       <default class="rootz_c">
         <joint axis="0 0 1" range="-20.0 20.0"/>
-        <position ctrlrange="-0.5 0.5" kp="100"/>
+        <position ctrlrange="-5.0 5.0" kp="100"/>
       </default>
       <default class="base">
         <joint axis="0 0 1" range="-0.47 0.47"/>
@@ -140,7 +140,8 @@
     <joint name = "rootx" type = "slide" damping = "100" pos = "0 0 0" axis = "1 0 0" range = "-20 20"/>
     <joint name = "rooty" type = "slide" damping = "100" pos = "0 0 0" axis = "0 1 0" range = "-20 20"/>
     <joint name = "rootz" type = "slide" damping = "100" pos = "0 0 0" axis = "0 0 1" range = "-20 20"/>
-      <body name="palm" pos = "0 0 0.12" quat="0.5 0 0.5 0" childclass="allegro_right">
+      <!-- <body name="palm" pos = "-0.1 0 0" quat="0.5 0.5 0 0" childclass="allegro_right"> -->
+      <body name="palm" pos = "-0.1 0 0" quat="0.5 0.5 0 0" childclass="allegro_right">
         <!-- <inertial mass="0.4154" pos="0 0 0.0475" diaginertia="1e-4 1e-4 1e-4"/> -->
         <geom class="palm_visual" mesh="base_link"/>
         <geom class="palm_collision"/>

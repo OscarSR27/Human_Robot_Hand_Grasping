@@ -37,9 +37,9 @@
     </body>
     
     <!-- Positioning the cylinder over the hand -->
-    <body name="cylinder_object" pos="0 0 0.05" quat="0.5 0.5 0 0">
+    <body name="cylinder_object" pos="0 0 0.09" quat="0 0 0 0">
          <freejoint/>
-         <geom type="cylinder" size="0.03 0.05" rgba="0.9 0.1 0.1 1" density="500" friction="1 0.1 0.1"/>
+         <geom type="box" size="0.025 0.04 0.09" rgba="0.9 0.1 0.1 1" density="25" friction="1 0.1 0.1"/>
     </body>
 
     

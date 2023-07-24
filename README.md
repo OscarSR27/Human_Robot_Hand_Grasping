@@ -37,6 +37,6 @@ python3 -m mujoco.viewer --mjcf=/path/to/some/mjcf.xml
 
 ## References
 
-- https://github.com/deepmind/mujoco_menagerie
-- https://mujoco.readthedocs.io/en/stable/python.html
-- https://www.youtube.com/watch?v=p7wqTpVXug4&list=PLc7bpbeTIk758Ad3fkSywdxHWpBh9PM0G&index=2
+https://github.com/deepmind/mujoco_menagerie
+https://mujoco.readthedocs.io/en/stable/python.html
+https://www.youtube.com/watch?v=p7wqTpVXug4&list=PLc7bpbeTIk758Ad3fkSywdxHWpBh9PM0G&index=2
