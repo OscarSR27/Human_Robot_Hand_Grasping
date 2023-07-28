@@ -62,5 +62,5 @@ To run the simulation, navigate to the project's directory in your terminal and 
 
 For any further questions or inquiries about the project, feel free to reach out to us:
 
-- Oscar Rivera: [Insert Contact Information]
-- Premt Cara: [Insert Contact Information]
+- Oscar Rivera: osotoriv@gmail.com
+- Premt Cara: carapremt@gmail.com
