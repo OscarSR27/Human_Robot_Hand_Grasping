@@ -1,5 +1,5 @@
 # Human_Robot_Hand_Grasping
-Final project
+Final project [Intro_To_Grasping_Final_Report.pdf](Intro_To_Grasping_Final_Report.pdf)
 
 ## Task:
 
